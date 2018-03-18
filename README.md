@@ -1,0 +1,1 @@
+Adapted from [https://github.com/gbrammer/liberate-spotify](https://github.com/gbrammer/liberate-spotify).
